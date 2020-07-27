@@ -1,0 +1,23 @@
+MVC - (Model View Controller)
+Model - DB, API
+View - UI
+Controller - (fragment,  activity, viewcontroller)
+
+
+
+MVP - (Model View Presenter)
+
+Model - DB, API
+View - (fragment,  activity, viewcontroller)
+Presenter - (logic)
+
+
+MVVM - (Model View ViewModel)
+Model - DB, API
+View - (fragment,  activity, viewcontroller)
+ViewModel - (logic)
+
+MVI - (Model View Intent)
+Model - DB, API
+View - (fragment,  activity, viewcontroller)
+Intent - (intention, action)
